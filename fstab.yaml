@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://candeloitte-my.sharepoint.com/:f:/r/personal/ammarimuthu_deloitte_ca/Documents/Documents/Projects/Shop%20Pay%20connector/Adobe/starter-content-commerce?csf=1&web=1&e=9KqzJo
 
 folders:
   /products/: /products/default
