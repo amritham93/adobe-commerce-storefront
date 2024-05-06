@@ -4,8 +4,8 @@ This project boilerplate is for Edge Delivery Services projects that integrate w
 
 ## Environments
 
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--adobe-commerce-storefront--amritham93.hlx.page/
+- Live: https://main--adobe-commerce-storefront--amritham93.hlx.live/
 
 ## Pre-requisites
 
